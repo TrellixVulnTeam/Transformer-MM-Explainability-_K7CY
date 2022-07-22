@@ -16,3 +16,5 @@ captum
 wget
 ftfy
 regex
+numpy==1.23.1
+torch==1.12.0
