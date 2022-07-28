@@ -15,4 +15,4 @@ captum
 wget
 ftfy
 regex
-torch==1.12.0
+torch==1.7.0
